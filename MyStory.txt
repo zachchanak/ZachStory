@@ -13,3 +13,7 @@ The battle takes a turn for the worse as MrIListenToMusicOnSpeakersInTheCSLab ge
 
 After everyone left the cs labs because of extream fatigue(and because it closes at night) it became clear that the storming phase would prove more difficult than it first seemed.
 The team members seemed to all be at each others necks after what was only a few days.  What will happen to our heros? will they rise up or will they fail?
+
+The thing about the storming phase is that there are no heroes. Only evil. A person whose group is in the storming phase must do whatever it takes to survive.
+So I did what I had to do to survive, I overthrew the team leader. I didn't fix our program which was coded with the belief that arrays start at index 1 and 
+we received a terrible grade. But it was necessary for the good of the group. Needless to say, our team leader is no more. #oof
